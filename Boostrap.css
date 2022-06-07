@@ -246,3 +246,6 @@ header ul li a.active
     margin-top: 0px;
     top: 0px;
 }
+@media(max-width:501px){
+    .ab{ font-size: 0.9rem; }
+}
